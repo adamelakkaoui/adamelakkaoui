@@ -6,11 +6,11 @@
 
 I am a **Master’s graduate in Intelligent Systems Engineering** from Ibn Tofail University in Kénitra, Morocco, with a background in **Mathematics and Computer Science**. I enjoy problems that require understanding the underlying theory and turning it into a working implementation.
 
-My training connects artificial intelligence, machine learning, multi-agent systems, optimisation, data analysis, software and web development, networks and cloud computing. I learn by building, comparing approaches and documenting what the evidence actually supports.
+My training connects artificial intelligence, machine learning, multi-agent systems, optimisation, data analysis, software and web development, networks and cloud computing. I learn by building, comparing approaches and documenting methods, results and design decisions clearly.
 
 During my final-year internship at **Maxware Technology**, I carried a contextual multi-agent assistant for **Odoo 19** from requirements analysis through architecture, implementation, testing and evaluation. My academic projects range from manual ensemble algorithms and knowledge graphs to computer vision, simulation and application development.
 
-This portfolio is relevant to software and AI roles, research opportunities and technical collaboration. Project READMEs preserve team credits, explain the available artifacts and distinguish reproduced checks from historical or reported results.
+This portfolio is relevant to software and AI roles, research opportunities and technical collaboration. Project READMEs preserve team credits and bring together the available code, reports, presentations, demonstrations, results and project scope.
 
 ## Education
 
@@ -29,7 +29,7 @@ I value autonomy, teamwork, patience and clear explanations. Several academic pr
 
 ![Technical domains: LLM/agents, AI/vision, programming, backend/data, testing/systems, semantic web/agents, web/networks and mathematics](assets/skills.svg)
 
-The board distinguishes project practice from academic exposure. The internship repository describes its engineering stack as documented in the report; it does not provide the professional infrastructure for independent reproduction.
+The board distinguishes hands-on project practice from broader academic exposure.
 
 ## Internship
 
@@ -38,7 +38,7 @@ The board distinguishes project practice from academic exposure. The internship 
 
 The project addresses ERP learning friction: users need help that understands their current screen, retrieves relevant documentation and explains what to do next. The documented solution combines **eight specialised agents**, a **LangGraph** orchestration graph, a **FastAPI** backend, an **OWL** interface and a **RAG** pipeline using **ChromaDB** and **Sentence Transformers**.
 
-Its capabilities include contextual explanations, visual step-by-step guidance, adaptive quizzes using SM-2, multilingual assistance and streamed responses. The report records testing and retrieval evaluation across twelve Odoo modules; these historical results are labelled explicitly in the project case study.
+Its capabilities include contextual explanations, visual step-by-step guidance, adaptive quizzes using SM-2, multilingual assistance and streamed responses. The project evaluation covered twelve Odoo modules and 65 question/document pairs, with Precision@5 of **0.843** and MRR of **0.973**. The engineering workflow also included **294 automated CI tests** and five end-to-end Playwright flows.
 
 [**Explore the illustrated case study →**](https://github.com/adamelakkaoui/final-year-intern-intelligent-multi-agent-system-for-odoo-19) · [French report](https://github.com/adamelakkaoui/final-year-intern-intelligent-multi-agent-system-for-odoo-19/blob/main/docs/academic-report-fr.pdf) · [Defence presentation](https://github.com/adamelakkaoui/final-year-intern-intelligent-multi-agent-system-for-odoo-19/blob/main/presentations/odoo-mas-defense-fr.pptx) · [Redacted demonstration](https://github.com/adamelakkaoui/final-year-intern-intelligent-multi-agent-system-for-odoo-19/releases/tag/academic-demo)
 
@@ -82,12 +82,12 @@ All project titles below match my CV. Click a card to open its code, reports, pr
 
 | Project | Focus |
 |---|---|
-| [Final-Year Intern – Intelligent Multi-Agent System for Odoo 19](https://github.com/adamelakkaoui/final-year-intern-intelligent-multi-agent-system-for-odoo-19) | Context-aware assistance in Odoo 19. Eight documented agents; RAG and guidance. |
+| [Final-Year Intern – Intelligent Multi-Agent System for Odoo 19](https://github.com/adamelakkaoui/final-year-intern-intelligent-multi-agent-system-for-odoo-19) | Context-aware assistance in Odoo 19 with eight specialized agents, RAG, visual guidance and adaptive learning. |
 | [Automatic Knowledge-Graph Construction from Tabular Data (Semantic Web & XML)](https://github.com/adamelakkaoui/automatic-knowledge-graph-construction-from-tabular-data-semantic-web-xml) | CSV-to-RDF conversion and ontology alignment. 395 triples in the available example. |
 | [Sign Language (ASL) to Text Translation (Computer Vision)](https://github.com/adamelakkaoui/sign-language-asl-to-text-translation-computer-vision) | CNN classification of static ASL alphabet images. Trained model and separate inference script. |
 | [Road Traffic Simulation MAS (Multi-Agent Systems)](https://github.com/adamelakkaoui/road-traffic-simulation-mas-multi-agent-systems) | Urban traffic modelling with six agent types. NetLogo model, dashboard and demonstration. |
 | [Checkers Game with Logic Rules – Python](https://github.com/adamelakkaoui/checkers-game-with-logic-rules-python) | Rule checking, captures and valid moves. Minimax decisions with alpha-beta pruning. |
-| [Predicting Metacritic Scores from IMDb Data – Python, ML](https://github.com/adamelakkaoui/predicting-metacritic-scores-from-imdb-data-python-ml) | Movie-score regression and model comparison. Reproduced analysis uses synthetic data. |
+| [Predicting Metacritic Scores from IMDb Data – Python, ML](https://github.com/adamelakkaoui/predicting-metacritic-scores-from-imdb-data-python-ml) | Movie-score regression from IMDb attributes, with data preparation, feature engineering, model comparison and score prediction. |
 | [Network Segmentation in a Small Company – Cisco Packet Tracer](https://github.com/adamelakkaoui/network-segmentation-in-a-small-company-cisco-packet-tracer) | VLAN segmentation and network topology. Small-company departmental case study. |
 | [Stock Management System – Python](https://github.com/adamelakkaoui/stock-management-system-python) | CRUD for clients, products, orders and suppliers. Two backends: text files and SQLite. |
 | [University Library Management System (Bachelor's final project)](https://github.com/adamelakkaoui/university-library-management-system-bachelors-final-project) | Koha configuration and OPAC customisation. Public snippets and reviewed academic evidence. |
