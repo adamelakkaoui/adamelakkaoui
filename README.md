@@ -102,16 +102,45 @@ All project titles below match my CV. Click a card to open its code, reports, pr
 
 | Language | Background |
 |---|---|
-| Arabic | Native |
-| French | Professional proficiency |
-| English | EF SET overall **75/100 — C2**, August 2026; speaking component **B2** |
-| German | Completed B1 coursework at Friedrich Rückert Zentrum, Kénitra; nearing completion of B2 coursework; no formal proficiency certificate |
+| <img src="assets/flags/ma.svg" width="24" alt="Arabic language flag"> Arabic | Native |
+| <img src="assets/flags/fr.svg" width="24" alt="French language flag"> French | Professional proficiency |
+| <img src="assets/flags/gb.svg" width="24" alt="English language flag"> English | EF SET overall **75/100 — C2**, August 2026; speaking component **B2** |
+| <img src="assets/flags/de.svg" width="24" alt="German language flag"> German | Completed B1 coursework at Friedrich Rückert Zentrum, Kénitra; nearing completion of B2 coursework; no formal proficiency certificate |
 
-Certifications listed in my CV:
+### English certificate
 
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
-- **Oracle Data Platform 2025 Foundations Associate**
+**EF SET — 75/100, C2 overall** · Issued **27 August 2026**.
+
+[**View the original certificate (PDF)**](certificates/ef-set-english-certificate.pdf) · [Verify on EF SET](https://cert.efset.org/fr/fR1YtL)
+
+Component scores: reading **80 (C2)**, listening **71 (C2)**, writing **97 (C2)** and speaking **53 (B2)**.
+
+### Oracle certifications
+
+Original badges from my portfolio, linked to the corresponding Oracle eCertificates.
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="certificates/oracle-ai-foundations.pdf"><img src="assets/certifications/oracle-ai-foundations.jpg" width="260" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate badge"></a><br>
+<strong>OCI 2025 — AI Foundations Associate</strong><br>
+Issued 6 August 2025 · Valid until 6 August 2027<br>
+<a href="certificates/oracle-ai-foundations.pdf">View certificate (PDF)</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="certificates/oracle-foundations.pdf"><img src="assets/certifications/oracle-foundations.jpg" width="260" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate badge"></a><br>
+<strong>OCI 2025 — Foundations Associate</strong><br>
+Issued 5 August 2025 · Valid until 5 August 2027<br>
+<a href="certificates/oracle-foundations.pdf">View certificate (PDF)</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="certificates/oracle-data-platform.pdf"><img src="assets/certifications/oracle-data-platform.jpg" width="260" alt="Oracle Data Platform 2025 Certified Foundations Associate badge"></a><br>
+<strong>Oracle Data Platform 2025 — Foundations Associate</strong><br>
+Issued 8 August 2025<br>
+<a href="certificates/oracle-data-platform.pdf">View certificate (PDF)</a>
+</td>
+</tr>
+</table>
 
 ## Contact
 
