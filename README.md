@@ -102,18 +102,16 @@ All project titles below match my CV. Click a card to open its code, reports, pr
 
 | Language | Background |
 |---|---|
-| <img src="assets/flags/ma.svg" width="24" alt="Arabic language flag"> Arabic | Native |
-| <img src="assets/flags/fr.svg" width="24" alt="French language flag"> French | Professional proficiency |
-| <img src="assets/flags/gb.svg" width="24" alt="English language flag"> English | EF SET overall **75/100 — C2**, August 2026; speaking component **B2** |
-| <img src="assets/flags/de.svg" width="24" alt="German language flag"> German | Completed B1 coursework at Friedrich Rückert Zentrum, Kénitra; nearing completion of B2 coursework; no formal proficiency certificate |
+| <img src="assets/flags/ma.svg" width="24" alt="Arabic language flag">&nbsp;Arabic | Native |
+| <img src="assets/flags/fr.svg" width="24" alt="French language flag">&nbsp;French | Professional proficiency |
+| <img src="assets/flags/gb.svg" width="24" alt="English language flag">&nbsp;English | EF SET overall **75/100 — C2**, August 2026 |
+| <img src="assets/flags/de.svg" width="24" alt="German language flag">&nbsp;German | Completed B1 coursework at Friedrich Rückert Zentrum, Kénitra; nearing completion of B2 coursework; no formal proficiency certificate |
 
 ### English certificate
 
 **EF SET — 75/100, C2 overall** · Issued **27 August 2026**.
 
 [**View the original certificate (PDF)**](certificates/ef-set-english-certificate.pdf) · [Verify on EF SET](https://cert.efset.org/fr/fR1YtL)
-
-Component scores: reading **80 (C2)**, listening **71 (C2)**, writing **97 (C2)** and speaking **53 (B2)**.
 
 ### Oracle certifications
 
