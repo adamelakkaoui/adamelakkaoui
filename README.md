@@ -44,7 +44,7 @@ Its capabilities include contextual explanations, visual step-by-step guidance, 
 
 ## Projects
 
-All project titles below match my CV. Click a card to open its code, reports, presentations, available demonstrations and verification notes.
+All project titles below match my CV. Click a card to open its code, reports, presentations, demonstrations and documented project results.
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ All project titles below match my CV. Click a card to open its code, reports, pr
 |---|---|
 | [Final-Year Intern – Intelligent Multi-Agent System for Odoo 19](https://github.com/adamelakkaoui/final-year-intern-intelligent-multi-agent-system-for-odoo-19) | Context-aware assistance in Odoo 19 with eight specialized agents, RAG, visual guidance and adaptive learning. |
 | [Automatic Knowledge-Graph Construction from Tabular Data (Semantic Web & XML)](https://github.com/adamelakkaoui/automatic-knowledge-graph-construction-from-tabular-data-semantic-web-xml) | CSV-to-RDF conversion and ontology alignment. 395 triples in the available example. |
-| [Sign Language (ASL) to Text Translation (Computer Vision)](https://github.com/adamelakkaoui/sign-language-asl-to-text-translation-computer-vision) | CNN classification of static ASL alphabet images. Trained model and separate inference script. |
+| [Sign Language (ASL) to Text Translation (Computer Vision)](https://github.com/adamelakkaoui/sign-language-asl-to-text-translation-computer-vision) | CNN classification of static ASL alphabet images with real-time webcam recognition through OpenCV. |
 | [Road Traffic Simulation MAS (Multi-Agent Systems)](https://github.com/adamelakkaoui/road-traffic-simulation-mas-multi-agent-systems) | Urban traffic modelling with six agent types. NetLogo model, dashboard and demonstration. |
 | [Checkers Game with Logic Rules – Python](https://github.com/adamelakkaoui/checkers-game-with-logic-rules-python) | Rule checking, captures and valid moves. Minimax decisions with alpha-beta pruning. |
 | [Predicting Metacritic Scores from IMDb Data – Python, ML](https://github.com/adamelakkaoui/predicting-metacritic-scores-from-imdb-data-python-ml) | Movie-score regression from IMDb attributes, with data preparation, feature engineering, model comparison and score prediction. |
