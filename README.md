@@ -100,12 +100,32 @@ All project titles below match my CV. Click a card to open its code, reports, pr
 
 ## Languages and certifications
 
-| Language | Background |
-|---|---|
-| <img src="assets/flags/ma.svg" width="24" alt="Arabic language flag">&nbsp;Arabic | Native |
-| <img src="assets/flags/fr.svg" width="24" alt="French language flag">&nbsp;French | Professional proficiency |
-| <img src="assets/flags/gb.svg" width="24" alt="English language flag">&nbsp;English | EF SET overall **75/100 — C2**, August 2026 |
-| <img src="assets/flags/de.svg" width="24" alt="German language flag">&nbsp;German | Completed B1 coursework at Friedrich Rückert Zentrum, Kénitra; nearing completion of B2 coursework; no formal proficiency certificate |
+<table>
+<thead>
+<tr>
+<th width="160">Language</th>
+<th>Background</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/flags/ma.svg" width="24" alt="Arabic language flag">&nbsp;Arabic</td>
+<td>Native</td>
+</tr>
+<tr>
+<td><img src="assets/flags/fr.svg" width="24" alt="French language flag">&nbsp;French</td>
+<td>Professional proficiency</td>
+</tr>
+<tr>
+<td><img src="assets/flags/gb.svg" width="24" alt="English language flag">&nbsp;English</td>
+<td>EF SET overall <strong>75/100 — C2</strong>, August 2026</td>
+</tr>
+<tr>
+<td><img src="assets/flags/de.svg" width="24" alt="German language flag">&nbsp;German</td>
+<td>Completed B1 coursework at Friedrich Rückert Zentrum, Kénitra; nearing completion of B2 coursework; no formal proficiency certificate</td>
+</tr>
+</tbody>
+</table>
 
 ### English certificate
 
