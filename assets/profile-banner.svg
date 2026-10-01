@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="320" viewBox="0 0 1120 320" role="img" aria-labelledby="title desc">
-<title id="title">Adam El Akkaoui</title><desc id="desc">Intelligent systems, AI and software engineering</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0f17"/><stop offset="1" stop-color="#151c2b"/></linearGradient><linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<rect width="1120" height="320" rx="20" fill="url(#bg)"/>
-<rect x="1" y="1" width="1118" height="318" rx="19" fill="none" stroke="#2d3a4f"/>
-<rect x="36" y="30" width="50" height="4" rx="2" fill="url(#accent)"/>
-<g font-family="DejaVu Sans, Arial, sans-serif">
-<text x="36" y="112" fill="#e5e7eb" font-size="58" font-weight="700">Adam El Akkaoui</text>
-<text x="38" y="161" fill="#22d3ee" font-size="28">Intelligent Systems · AI · Software Engineering</text>
-<text x="38" y="220" fill="#94a3b8" font-size="23">From mathematical methods to practical implementations.</text>
-<text x="38" y="274" fill="#a78bfa" font-size="18" letter-spacing="1">MACHINE LEARNING / MULTI-AGENT SYSTEMS / APPLICATIONS</text>
-</g><g transform="translate(1000 162)" fill="none" stroke-width="1.5">
-<circle r="63" stroke="#2d3a4f"/><circle r="37" stroke="#2d3a4f"/>
-<path d="M-58,-25 L0,-42 L48,-13 L42,47 L-27,51 L-58,-25 M0,-42 L0,0 L42,47 M-58,-25 L0,0 L48,-13 M-27,51 L0,0" stroke="#22d3ee" opacity="0.55"/>
-<circle r="7" fill="#22d3ee" stroke="none"/><circle cx="0" cy="-42" r="5" fill="#a78bfa" stroke="none"/><circle cx="48" cy="-13" r="5" fill="#22d3ee" stroke="none"/><circle cx="42" cy="47" r="5" fill="#a78bfa" stroke="none"/><circle cx="-27" cy="51" r="5" fill="#22d3ee" stroke="none"/><circle cx="-58" cy="-25" r="5" fill="#a78bfa" stroke="none"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc"><title id="title">Adam El Akkaoui — Intelligent Systems Engineering</title><desc id="desc">Master’s graduate in Intelligent Systems Engineering. AI, data, multi-agent systems and software. Kénitra, Morocco.</desc><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b0f17"/><stop offset="1" stop-color="#172236"/></linearGradient><linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs><rect x="1" y="1" width="1198" height="358" rx="20" fill="url(#bg)" stroke="#2e3b53"/><path d="M810 0 L1030 360 M875 0 L1095 360 M940 0 L1160 360" stroke="#22d3ee" opacity=".07" stroke-width="34"/><rect x="44" y="44" width="62" height="5" rx="2" fill="url(#accent)"/><text x="44" y="133" font-family="DejaVu Sans,Arial,sans-serif" font-size="57" font-weight="700" fill="#e5e7eb">ADAM EL AKKAOUI</text><text x="46" y="185" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="400" fill="#22d3ee">Intelligent Systems Engineering</text><text x="46" y="230" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="400" fill="#a78bfa">AI · Data · Multi-Agent Systems · Software</text><text x="46" y="286" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#b0bed1">A mathematical foundation. Practical projects. Documented evidence.</text><text x="46" y="328" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#8fa3bd">MASTER’S GRADUATE  /  KÉNITRA, MOROCCO</text></svg>
